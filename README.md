@@ -44,6 +44,9 @@ After understanding the client’s problem and need, the following KPIs were for
 - Total Average performance rating for mens 2.06 and womens performace rating is 1.89
 
 ## Final Dashboard
+![image](https://github.com/bairagineha/Diversity-And-Inclusion-Power-BI-Analysis-Project/assets/151651884/94921aef-2880-444c-b2d0-ef040b2b7e28)
+
+![image](https://github.com/bairagineha/Diversity-And-Inclusion-Power-BI-Analysis-Project/assets/151651884/d29cd1c1-bbdb-4ac3-93f0-25a4254dac44)
 
 
 ## My Recommendations
